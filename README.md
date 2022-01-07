@@ -1,4 +1,4 @@
-# docker-nginx-phpfpm
+# PHPFPM+Nginx
 
 Простой контейнер для запуска PHP сервера.
 
